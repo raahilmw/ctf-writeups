@@ -1,4 +1,3 @@
-[READMEctf.md](https://github.com/user-attachments/files/28761237/READMEctf.md)
 # 📝 CTF Write-Ups
 
 A collection of my Capture The Flag (CTF) write-ups documenting challenges, methodologies, and solutions from various cybersecurity competitions and training platforms.
